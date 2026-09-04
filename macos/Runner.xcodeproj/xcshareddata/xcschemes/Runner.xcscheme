@@ -15,7 +15,11 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                      BuildableName = "profile_card.app"
+=======
+                     BuildableName = "instagram_project.app"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
                      BlueprintName = "Runner"
                      ReferencedContainer = "container:Runner.xcodeproj">
                   </BuildableReference>
@@ -33,7 +37,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "profile_card.app"
+=======
+               BuildableName = "instagram_project.app"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -49,7 +57,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "profile_card.app"
+=======
+            BuildableName = "instagram_project.app"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -84,7 +96,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "profile_card.app"
+=======
+            BuildableName = "instagram_project.app"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -101,7 +117,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "profile_card.app"
+=======
+            BuildableName = "instagram_project.app"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

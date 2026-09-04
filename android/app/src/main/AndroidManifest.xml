@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="profile_card"
+=======
+        android:label="instagram_project"
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

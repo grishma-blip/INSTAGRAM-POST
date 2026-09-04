@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
 
 void main() {
   runApp(const GrishmaProfileApp());
@@ -6,11 +7,22 @@ void main() {
 
 class GrishmaProfileApp extends StatelessWidget {
   const GrishmaProfileApp({super.key});
+=======
+import 'home_page.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+<<<<<<< HEAD
       title: 'GrishmaThakare Profile',
       theme: ThemeData(
         useMaterial3: true,
@@ -565,6 +577,19 @@ class ProfileHome extends StatelessWidget {
     return const Divider(
       height: 1,
       color: Color(0xFFE5E7EB),
+=======
+
+      title: 'Instagram UI',
+
+      theme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Colors.purple,
+        ),
+        useMaterial3: true,
+      ),
+
+      home: const HomePage(),
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
     );
   }
 }

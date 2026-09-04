@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "profile_card",
     "short_name": "profile_card",
+=======
+    "name": "instagram_project",
+    "short_name": "instagram_project",
+>>>>>>> 2718b0ef03674b72cd86d9320fe51a69ef83b25a
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
